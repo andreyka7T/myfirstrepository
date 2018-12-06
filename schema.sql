@@ -6,5 +6,5 @@ create table entries (
     author string not null,
     supervisor string not null,
     image_url string not null,
-    url string not null
+    url string not nulli
 );
